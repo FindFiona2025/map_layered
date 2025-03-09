@@ -1,0 +1,1 @@
+This is a file displaying a 45 minute drive time area from Fiona's home with the childcares and McDonalds within that area plotted.  These layers can be toggled on and off using the button in the upper right hand corner.
